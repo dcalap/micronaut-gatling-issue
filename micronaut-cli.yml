@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.nexthink.ecosystem.gatling.test
+---
+testFramework: junit
+sourceLanguage: java
